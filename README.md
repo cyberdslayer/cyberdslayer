@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Mishra</h1>
 <h3 align="center">DevOps and CyberSecurity Enthusiast</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking, cloud and CI/CD**
+- 🌱 I’m currently learning **Back-End Development, cloud and CI/CD**
 
 - 💬 Ask me about **Cybersecurity, DevOps and Cloud**
 
